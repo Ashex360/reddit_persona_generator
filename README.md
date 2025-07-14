@@ -125,3 +125,11 @@ GitHub: https://github.com/Ashex360
 ## LICENSE
 
 MIT License
+📌 Submission Note
+
+This project was developed as part of the Generative AI Internship Assignment by BeyondChats.  
+The goal was to analyze Reddit profiles and extract meaningful user personas using logic, pattern detection, and NLP.
+
+If you'd like to test the code on your own Reddit username, please follow the instructions above.
+
+Thank you!
